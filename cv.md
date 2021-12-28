@@ -9,3 +9,8 @@
 ## Briefly About Myself:
 
 * I am beginner in the programming. I want to learn something new and change my life.
+
+## Skills
+
+* (beggining) HTML, CSS
+* (beggining) Git
