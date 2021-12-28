@@ -1,1 +1,1 @@
-# rsschool-cv
+https://artouirosf.github.io/rsschool-cv/cv
