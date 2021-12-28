@@ -14,3 +14,9 @@
 
 * (beggining) HTML, CSS
 * (beggining) Git
+
+## Code Example:
+
+function multiply(a, b){
+return a * b
+}
