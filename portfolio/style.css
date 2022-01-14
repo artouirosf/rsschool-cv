@@ -1,0 +1,49 @@
+*, *::after, *::before{
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Merriweather', serif;  
+}
+
+.container {
+    width: 1440px;
+    margin: 0 auto;
+    padding: 0 20px;
+    
+
+}
+
+.header-inner {
+   display: flex; 
+   justify-content: space-around;
+}
+
+  .nav-list {
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+    margin-left: auto;
+}
+.nav-item + .nav-item {
+    margin-left: 30px;
+}
+
+  .nav-link {
+    
+    font-weight: 400;
+    line-height: 50px;
+    font-size: 20px;
+    transition: .3s;
+    color: #829985;
+    text-decoration: none;  
+    transition: color 0.5s;
+  }
+
+  .nav-link:hover {
+    color: #4d2323;
+  }
